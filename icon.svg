@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <rect id="svg_3" stroke="#000000" height="300" width="300" y="300" x="0" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#00a600"/>
+  <rect stroke="#000000" id="svg_1" height="300" width="300" y="0.000011" x="0" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#e61500"/>
+  <rect id="svg_2" stroke="#000000" height="300" width="300" y="0" x="300" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#0079c7"/>
+  <rect id="svg_4" stroke="#000000" height="300" width="300" y="300" x="300" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#e1c800"/>
+  <ellipse ry="157.333325" rx="157.333325" id="svg_24" cy="300.000007" cx="298.666664" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#232323"/>
+  <polygon id="svg_21" stroke-width="0" points="401.91949462890625,299.6040242910385 232.74713134765625,384.49614465236664 232.74713134765625,214.7119802236557 401.91949462890625,299.6040242910385 " strokeWidth="0" strokecolor="none" fill="#ffffff" edge="158.393166" orient="x" sides="3" shape="regularPoly" cy="149.333333" cx="122.666667"/>
+ </g>
+</svg>
