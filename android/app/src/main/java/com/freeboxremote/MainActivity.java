@@ -1,4 +1,4 @@
-package com.fbarrailla.freeboxplayerremote;
+package com.freeboxremote;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactPackage;
