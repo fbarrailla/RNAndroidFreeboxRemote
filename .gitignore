@@ -2,6 +2,9 @@
 #
 .DS_Store
 
+# Project
+my-release-key.keystore
+
 # Xcode
 #
 build/
